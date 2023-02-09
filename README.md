@@ -4,7 +4,7 @@
 wget https://github.com/raysan5/raylib/archive/refs/tags/4.2.0.tar.gz
 tar xvzf 4.2.0.tar.gz
 cd raylib-4.2.0
-#make
+make
 sudo make install
 sudo ldconfig
 ```
